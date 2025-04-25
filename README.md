@@ -1,5 +1,6 @@
-## Hi there, I'm Loc 👋
-![Profile Views](https://komarev.com/ghpvc/?username=ladailoc&color=blue)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=9D00FF&vCenter=true&width=800&lines=Hi+there%2C+I'm+Lộc+%F0%9F%91%8B;)
+<!-- Full+Stack+Developer+%7C+AI+Explorer;Building+Next-Gen+Web+Applications -->
+![Profile Views](https://komarev.com/ghpvc/?username=ladailoc&color=9D00FF)
 
 ## 👨‍💻 About me
 - 💻 Full Stack Developer | Passionate about High-Performance Web Applications
